@@ -1,26 +1,26 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "29cb417d7a"
   },
   "options": {
     "autoRead": false,
     "self": false,
     "mute": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 50,
+    "limitGame": 50
   },
   "sessionName": {
     "legacy": "/database/killua-legacy.json",
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "@AthipPunyaa",
+    "author": "KaizenBot"
   },
   "owner": [
-    "62812xxx"
+    "601140438510"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "timezone": "Asia/Kuala_Lumpur",
+  "footer": "Made With Love by Kaizen"
 }
